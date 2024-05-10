@@ -6,6 +6,7 @@ const page = () => {
     <Box>
       <Typography
         fontSize={10}
+        borderRight={1}
         color={{ sm: "red", md: "blue" }}
         bgcolor={"black"}
         display={"flex"}
